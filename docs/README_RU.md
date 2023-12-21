@@ -18,7 +18,7 @@
 
 - create_last_name - 1.names — массив имён. 2. nationality – строковое значение в формате __iso2__.
 
-- get_year_ago - функция принимает один параметр (age)
+- get_year_ago - функция принимает один параметр (age). Месяц и день выдаются случайно.
 
 ---
 ## Технический стек
@@ -74,7 +74,15 @@ import get_year_ago
 ```
 ## Function number 1
 ```python
-# 
+# get list
+
+get_list("first_names.json")
+
+# takes three parameters
+#  1. list with named
+#  2. string with gender
+#  3. string with Name nationality (optional)
+
 res_first_name = first_name_selection(fisrt_name, gender='male', nationality='us')
 print(res_first_name)
 ```
@@ -84,6 +92,14 @@ print(res_first_name)
 ```
 ### Function number 2
 ```python
+# get list
+
+get_list("last_names.json")
+
+# takes three parameters
+#  1. list with named
+#  2. string with Name nationality (optional), default parameter = 'en'
+
 res_last_name = last_name_selection(last_name, nationality='en')
 
 print(res_last_name)
@@ -94,6 +110,9 @@ print(res_last_name)
 ```
 ### Function number 3
 ```python
+# takes one parameter
+#  1. integer with age
+
 age = 18
 year_ago = get_year_ago(age)
 print(year_ago.strftime('%Y-%m-%d'))

@@ -19,7 +19,7 @@ User data. Selecting a name from a list of names, selecting a last name from a l
 
 - create_last_name - 1. names - an array of names. 2. nationality - string value in __iso2__ format
 
-- get_year_ago - the function takes one parameter (age) 
+- get_year_ago - the function takes one parameter (age). Month and day are given randomly.
 
 ---
 ## Tech Stack
