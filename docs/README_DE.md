@@ -6,9 +6,9 @@
 
 - Die Informationen werden in mehreren Sprachen präsentiert:
     
-    | [Englisch](https://github.com/komanch7/createusersdata/README.md) |
-    [Russisch](https://github.com/komanch7/createusersdata/docs/README_RU.md) |
-    [Ukrainisch](https://github.com/komanch7/createusersdata/docs/README_UA.md) |
+    | [Englisch](https://github.com/komanch7/createusersdata/blob/main/README.md) |
+    [Russisch](https://github.com/komanch7/createusersdata/blob/main/docs/README_RU.md) |
+    [Ukrainisch](https://github.com/komanch7/createusersdata/blob/main/docs/README_UA.md) |
 
 # createusersdata
 Benutzerdaten. Wenn Sie einen Namen aus einer Namensliste auswählen oder einen Nachnamen aus einer Liste mit Nachnamen auswählen, wird das Jahr basierend auf dem eingegebenen Alter berechnet.

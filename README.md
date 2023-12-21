@@ -6,9 +6,9 @@
 
 - Information is presented in several languages:
     
-    | [German](https://github.com/komanch7/createusersdata/docs/README_DE.md) |
-    [Russian](https://github.com/komanch7/createusersdata/docs/README_RU.md) |
-    [Ukrainian](https://github.com/komanch7/createusersdata/docs/README_UA.md) |
+    | [German](https://github.com/komanch7/createusersdata/blob/main/docs/README_DE.md) |
+    [Russian](https://github.com/komanch7/createusersdata/blob/main/docs/README_RU.md) |
+    [Ukrainian](https://github.com/komanch7/createusersdata/blob/main/docs/README_UA.md) |
 
 
 # createusersdata

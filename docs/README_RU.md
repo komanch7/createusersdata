@@ -6,9 +6,9 @@
 
 - Информация представлена на нескольких языках:
     
-    | [Английский](https://github.com/komanch7/createusersdata/README.md) |
-    [Украинский](https://github.com/komanch7/createusersdata/docs/README_UA.md) |
-    [Немецкий](https://github.com/komanch7/createusersdata/docs/README_DE.md) |
+    | [Английский](https://github.com/komanch7/createusersdata/blob/main/README.md) |
+    [Украинский](https://github.com/komanch7/createusersdata/blob/main/docs/README_UA.md) |
+    [Немецкий](https://github.com/komanch7/createusersdata/blob/main/docs/README_DE.md) |
 
 # createusersdata
 Данні користувача. Вибір імені зі списку імен, вибір прізвища зі списку прізвищ, розрахунок року з урахуванням введеного віку.
