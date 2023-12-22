@@ -119,7 +119,7 @@ print(year_ago.strftime('%Y'))
 ```
 - program response
 ```python
->> 2005-11-14
+>> 2005
 ```
 
 ## 🚀 Über mich
