@@ -1,4 +1,4 @@
-from datetime import datetime, timedelta
+from datetime import datetime
 import random
 
 def get_year_ago(age):
@@ -13,10 +13,11 @@ def get_year_ago(age):
 # 
 if __name__ == "__main__":
     print ("Start programm play!\n")
+
     age = 18
     random_date = get_year_ago(age)
-    # print(f"дата {years_ago} лет назад: {random_date.strftime('%Y-%m-%d')}")
-    print(random_date.strftime('%Y-%m-%d'))
+    print(random_date.strftime('%Y'))#%Y-%m-%d
+
     print ("\nEnd programm play!")
 else: 
     print ("An error has occurred! Unable to start")

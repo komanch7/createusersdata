@@ -1,11 +1,6 @@
 import random
-import json
-import os
+import get_list
 
-def get_list(path):
-    if path != "":
-        path = os.path.dirname(__file__) + "/" + path
-        return json.load(open(path))
 # 
 # gender = ['male', 'female']
 # nationality = ['en', '']
@@ -22,7 +17,7 @@ def first_name_selection(names=[], gender='male', nationality='en'):
 # 
 if __name__ == "__main__":
     print ("Start programm play!\n")
-    fisrt_name = get_list("first_names.json")
+    fisrt_name = get_list.get_list("first_names.json")
     # print(fisrt_name)
 
     res_first_name = first_name_selection(fisrt_name, gender='male', nationality='us')

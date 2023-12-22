@@ -115,7 +115,7 @@ print(res_last_name)
 
 age = 18
 year_ago = get_year_ago(age)
-print(year_ago.strftime('%Y-%m-%d'))
+print(year_ago.strftime('%Y'))
 ```
 - program response
 ```python
