@@ -31,15 +31,15 @@ User data. Selecting a name from a list of names, selecting a last name from a l
 # Clone this repository
 
 ```sh
-$ gh repo clone komanch7/createusersdata gp-pro
+$ gh repo clone komanch7/createusersdata cud-pro
 
-$ cd gh-cli
+$ cd cud-cli
 
   or
 
-$ git clone https://github.com/komanch7/createusersdata gp-pro
+$ git clone https://github.com/komanch7/createusersdata cud-pro
 
-$ cd gp-pro
+$ cd cud-pro
 ```
 
 
