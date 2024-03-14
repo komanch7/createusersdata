@@ -77,7 +77,7 @@ import get_year_ago
 ```python
 # get list
 
-get_list("first_names.json")
+first_name = "first_names.json"
 
 # takes three parameters
 #  1. list with named
@@ -95,7 +95,7 @@ print(res_first_name)
 ```python
 # get list
 
-get_list("last_names.json")
+last_name = "last_names.json"
 
 # takes three parameters
 #  1. list with named
